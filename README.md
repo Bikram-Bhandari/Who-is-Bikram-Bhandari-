@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bikram bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikram bhandari" height="30" width="40" /></a>
-<a href="https://fb.com/bikram bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bikram bhandari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bikram-bhandari-201484347/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikram-bhandari-201484347/" height="30" width="40" /></a>
+<a href="https://fb.com/bikrambhandari01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bikrambhandari01" height="30" width="40" /></a>
 <a href="https://instagram.com/bikram_bhandari0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikram_bhandari0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bikram tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bikram tech" height="30" width="40" /></a>
 </p>
